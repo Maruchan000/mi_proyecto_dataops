@@ -1,2 +1,29 @@
+# Proyecto DataOps - Automatización de Actas
+
+## 📌 Descripción
+Este proyecto automatiza la extracción y generación de reportes de actas en formato PDF.
+
+## ⚙️ Tecnologías
+- Python
+- Jenkins
+- Git y GitHub
+
+## 🚀 Funcionalidad
+- Lectura de archivos PDF
+- Generación de reportes Excel
+- Ejecución automática mediante Jenkins
+- Envío de notificaciones por correo
+
+## 📂 Estructura
+- actas/: archivos PDF
+- extraer_actas.py: script principal
+- reportes: archivos generados
+
+## 👩‍💻 Autora
+Anggella Aguilar
+
+## 🔄 Cambios recientes
+- Se realizaron pruebas en la rama desarrollo
+
 ## 🧪 Pruebas en rama desarrollo
 Se realizaron pruebas para validar el flujo de trabajo con Git.
